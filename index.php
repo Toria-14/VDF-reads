@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <style>
     .login-btn{
     color: white;
@@ -6,7 +6,7 @@
     padding: 10px 15px;
     margin-top: 20px;
     border-radius: 8px;
-    font-weight: bold;
+    font-weight: bold; 
     max-width: 100%;
 }
 .cards {
@@ -68,4 +68,4 @@ echo "<a href='login.php' class='login-btn'> Login</a>";
 include 'footer.php';
 
 ?>
-</html>
+
