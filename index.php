@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <style>
     .login-btn{
     color: white;
@@ -67,3 +68,4 @@ echo "<a href='login.php' class='login-btn'> Login</a>";
 include 'footer.php';
 
 ?>
+</html>
